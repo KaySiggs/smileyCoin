@@ -1,5 +1,6 @@
 //Monday nights...
 //Something
+//Cross your fingers
 
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2014 The Bitcoin developers
