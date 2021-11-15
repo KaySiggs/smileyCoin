@@ -48,3 +48,4 @@ Community
 ---------
 
 https://bitcointalk.org/index.php?topic=845761.0;all
+#SmileyC
