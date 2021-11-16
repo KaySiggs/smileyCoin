@@ -1,4 +1,4 @@
-//Monday nights...
+//Tuesday november
 //Something
 //Cross your fingers
 
